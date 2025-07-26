@@ -16,7 +16,7 @@
 ![OSINT](https://img.shields.io/badge/-OSINT-333333?style=flat)
 
 ### **GitHub статистика**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaberg28&show_icons=true&theme=gruvbox&hide_title=true)](https://github.com/nikitaberg28)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaberg28&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/nikitaberg28)  
 
 ### **Последние заказы**  
 - **Баннер для сервера** [Смотреть](https://i.ibb.co/bjxrKSpf/ADBJ.jpg)
