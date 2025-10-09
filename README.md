@@ -4,16 +4,13 @@
 [![Discord](https://img.shields.io/badge/Discord-b3erg-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/899722710010183770)
 
 ### **Небольшой Стек**  
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 ![Pix2D](https://img.shields.io/badge/-Pix2D-00AAFF?style=flat)
-![Adobe AI](https://img.shields.io/badge/-Adobe_AI-FF0000?style=flat&logo=adobe&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![OSINT](https://img.shields.io/badge/-OSINT-333333?style=flat)
 
 ### **GitHub статистика**  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaberg28&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/nikitaberg28)  
