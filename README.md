@@ -4,10 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-b3erg-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/899722710010183770)
 
 ## Перейти на сайт
-
-[![Перейти на сайт](https://img.shields.io/badge/Перейти%20на%20сайт-blue)](https://github.com/berg/nikitaberg.ru/blob/main/README.md)
-
-*(новый дизайн жидкого стекла)*
+[![Перейти на сайт](https://img.shields.io/badge/Перейти%20на%20сайт-blue)](https://nikitaberg.ru) *(новый дизайн жидкого стекла)*
 
 ### **Небольшой Стек**
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
