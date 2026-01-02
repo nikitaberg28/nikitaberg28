@@ -11,6 +11,3 @@
 ![Pix2D](https://img.shields.io/badge/-Pix2D-00AAFF?style=flat)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-### **GitHub статистика**
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikitaberg28&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/nikitaberg28)
